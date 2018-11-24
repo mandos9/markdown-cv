@@ -78,6 +78,7 @@ DevOps Engineer
 ## Technical Skills
 
 - Python (fluent)
+- C++ (basic)
 - Test Driven Development
 - Linux (basic)
 - Git (basic)
