@@ -99,10 +99,10 @@ Co-authored a report on Economics of Ecosystems and Biodiversity
 - Reading (sci-fi, politics, fiction)
 - Comics (western, manga)
 
-<!-- ### Footer
-
 [TEEB]: https://trueprice.org/wp-content/uploads/2017/08/TEEB_Valuation-of-livestock-eco-agri-food-systems_final_June2017.pdf
 [Thesis]: https://dspace.library.uu.nl/handle/1874/297082
+
+<!-- ### Footer
 Last updated: November 2018 -->
 
 
