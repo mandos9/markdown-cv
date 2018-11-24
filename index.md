@@ -12,6 +12,7 @@ DevOps Engineer
 - email: mandos9@gmail.com
 
 ## Work Experience
+---
 `Jun 2016 to`
 
 `Present`
@@ -21,7 +22,7 @@ DevOps Engineer
 
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
-===
+---
 `Mar 2016 to`
 
 `Apr 2016`
@@ -32,7 +33,7 @@ Network migrations and maintenance, monitoring automation. Design and implementa
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
-===
+---
 `May 2015 to`
 
 `Jan 2016`
@@ -43,11 +44,12 @@ Amsterdam
 Economic research and analysis on ecosystem services valuation.
 Co-developed an excel tool that evaluated supplied chains externalities.
 
+---
 `Nov 2014 to` 
 
 `May 2015`
 
-Intern Analyst
+Intern Analyst at True Price BV
 Amsterdam
 
 Co-authored a report on Economics of Ecosystems and Biodiversity
@@ -84,9 +86,9 @@ Co-authored a report on Economics of Ecosystems and Biodiversity
 
 ## Accomplisments
 
-`2015` TEEB Publication on Economics of Ecosystems and Biodiversity 
+`2017` Wageningen Economic Research: _Valuation of livestock eco-agri-food systems: poultry, beef and dair_, available [online][TEEB]
 
-`2013` Master Thesis
+`2014` Master Thesis: _Polymorphism in Core-Controlled Virus Self-Assembly: Thermodynamics vs Kinetics_ , available[online][Thesis]
 
 
 
@@ -101,6 +103,8 @@ Co-authored a report on Economics of Ecosystems and Biodiversity
 
 <!-- ### Footer
 
+[TEEB]: https://trueprice.org/wp-content/uploads/2017/08/TEEB_Valuation-of-livestock-eco-agri-food-systems_final_June2017.pdf
+[Thesis]: https://dspace.library.uu.nl/handle/1874/297082
 Last updated: November 2018 -->
 
 
