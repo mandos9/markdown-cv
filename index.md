@@ -13,6 +13,7 @@ DevOps Engineer
 
 ## Work Experience
 `Jun 2016`
+
 `to Present`
 
 - DevOps Engineer at [Infradata](infradata.nl)
@@ -21,6 +22,7 @@ DevOps Engineer
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
 `Mar 2016`
+
 `to Apr 2016`
 
 
@@ -30,11 +32,10 @@ Network migrations and maintenance, monitoring automation. Design and implementa
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
-```
-May 2015 to
+`May 2015 to`
 
-Jan 2016
-```
+`Jan 2016`
+
 
 Trainee Analyst at True Price BV
 
