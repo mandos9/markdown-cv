@@ -19,28 +19,28 @@ DevOps Engineer
 ## Work Experience
 
 `Jun 2016 - Present`
-- __DevOps Engineer__ at [Infradata](infradata.nl)
+- __DevOps Engineer__ at [Infradata](https://www.infradata.nl)
 - Leiden
 - Automation of network migrations, maintenance and monitoring.
 - Design and development of software.
 
 
 `Mar 2016 - Apr 2016`
-- __Junior Software Developer__ at [Fox-IT](fox-it.com/nl)
+- __Junior Software Developer__ at [Fox-IT](https://www.fox-it.com/nl)
 - Delft
 - Software development in python and coaching in agile.
 - Coaching a team of developers and analysts to improve collaboration.
 
 
 `May 2015 - Jan 2016`
-- __Trainee Analyst__ at [True Price](trueprice.org)
+- __Trainee Analyst__ at [True Price](https://www.trueprice.org)
 - Amsterdam
 - Monetization of production system externalities to the environment and society.
 - Co-developed an excel tool that evaluated supply chains externalities.
 
 
 `Nov 2014 - May 2015`
-- __Intern Analyst__ at [True Price](trueprice.org)
+- __Intern Analyst__ at [True Price](https://www.trueprice.org)
 - Amsterdam
 - Economic research and analysis on ecosystem services valuation.
 - Co-authored a report on Economics of Ecosystems and Biodiversity.
