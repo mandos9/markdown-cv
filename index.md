@@ -15,15 +15,16 @@ email: mandos9@gmail.com
 
 ## Work Experience
 
-`Jun 2016 to Present`
+`Jun 2016 - Present`
 
 - DevOps Engineer at [Infradata](infradata.nl)
 - Leiden
 
-Network migrations and maintenance, monitoring automation. Design and implementation of software.
+Automation of network migrations, maintenance and monitoring.
+Design and development of software.
 
 
-`Mar 2016 to Apr 2016`
+`Mar 2016 - Apr 2016`
 
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
 - Delft
@@ -32,7 +33,7 @@ Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
 
-`May 2015 to Jan 2016`
+`May 2015 - Jan 2016`
 
 - Trainee Analyst at True Price BV
 - Amsterdam
@@ -41,27 +42,47 @@ Monetization of production system externalities to the environment and society.
 Co-developed an excel tool that evaluated supply chains externalities.
 
 
-`Nov 2014 to May 2015`
+`Nov 2014 - May 2015`
 
 - Intern Analyst at True Price BV
 - Amsterdam
 
 Economic research and analysis on ecosystem services valuation.
-Co-authored a report on Economics of Ecosystems and Biodiversity
+Co-authored a report on Economics of Ecosystems and Biodiversity.
+
+
+`Jan 2014 - Nov 2014`
+
+- Post bezorger at Sandd
+- Utrecht
+
+
+`Dec 2010 - Jun 2011`
+
+- ADSL support at Hellenic Telecommunications Organisation (OTE)
+- Athens
 
 ## Education
 
-`2018` MIT micromasters
+`2018 - 2019` MITx on edx
+              
+              Micromasters on Statistics and Data Science
 
-`2015` Utrecht Theorec
+`2011 - 2014` Utrecht University
 
-`2009` NTUA
+              Master's Degree, Theoretical Physics, 3.48/4.00
 
-`1996` Ellinogermaniki Agogi
+`2006 - 2011` National Technical University of Athens
+              
+              Bachelor of Applied Science, Applied Mathematics and Physics, 8.82/10
+
+`2000 - 2006` Ellinogermaniki Agogi
+              
+              Highshool Diploma, 19.1/20
 
 ## Technical Skills
 
-- Python
+- Python, fluent. 
 - Linux
 - Amazon Web Services
 - Ansible
@@ -74,24 +95,27 @@ Co-authored a report on Economics of Ecosystems and Biodiversity
 
 ## Languages
 
-- English, fluent
-- German, limited
-- Dutch, beginner
-- Greek, mother language
+- English, _fluent_
+- German, _limited_
+- Dutch, _beginner_
+- Greek, _mother tongue_
 
 ## Accomplisments
 
 `2017` _Valuation of livestock eco-agri-food systems: poultry, beef and dair_
+
       [Wageningen Economic Research][TEEB]
 
 `2014` _Polymorphism in Core-Controlled Virus Self-Assembly: Thermodynamics vs Kinetics_
+
        [Master Thesis][Thesis]
 
 
 
 ## Interests
-- Automation and Data Analytics
-- Machine Learning
+- Machine Learning and Automation
+- Domain Driven Design
+- Functional Programming (Haskell, F#)
 
 ## Hobbies
 - Mathematics (Category Theory, Type Theory, Topology)
