@@ -20,6 +20,7 @@ DevOps Engineer
 
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
+
 `Mar 2016 to Apr 2016`
 
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
@@ -28,6 +29,7 @@ Network migrations and maintenance, monitoring automation. Design and implementa
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
+
 `May 2015 to Jan 2016`
 
 - Trainee Analyst at True Price BV
@@ -35,6 +37,7 @@ Coaching a team of developers and analysts to improve collaboration.
 
 Monetization of production system externalities to the environment and society.
 Co-developed an excel tool that evaluated supply chains externalities.
+
 
 `Nov 2014 to May 2015`
 
