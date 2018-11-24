@@ -75,11 +75,12 @@ DevOps Engineer
 
 - Python, fluent. Completed several projects in python.
 - Linux, basic
+- Git, basic
 - Amazon Web Services, basic
+- Computer Networks, basic
 - Docker, basic
 - Ansible, basic
 - F5 systems, basic
-- Computer Networks, basic
 - MS Excel, written an excel tool for supply chain analysis
 
 ## Projects
