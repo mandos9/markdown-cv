@@ -6,7 +6,7 @@ title: Orfeas Agis Karachalios CV
 DevOps Engineer
 
 - Mijdrechtstraat 38 3522HX, Utrecht
-- <div style="text-align: right"> _the Netherlands_ </div>
+- <div style="text-align: left"> the Netherlands </div>
 
 - mobile: +31 (0) 64 40 81 039
 - email: mandos9@gmail.com
