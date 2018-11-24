@@ -13,18 +13,14 @@ DevOps Engineer
 
 ## Work Experience
 
-`Jun 2016 to`
-
-`Present`
+`Jun 2016 to Present`
 
 - DevOps Engineer at [Infradata](infradata.nl)
 - Leiden
 
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
-`Mar 2016 to`
-
-`Apr 2016`
+`Mar 2016 to Apr 2016`
 
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
 - Delft
@@ -32,9 +28,7 @@ Network migrations and maintenance, monitoring automation. Design and implementa
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
-`May 2015 to`
-
-`Jan 2016`
+`May 2015 to Jan 2016`
 
 - Trainee Analyst at True Price BV
 - Amsterdam
@@ -42,9 +36,7 @@ Coaching a team of developers and analysts to improve collaboration.
 Monetization of production system externalities to the environment and society.
 Co-developed an excel tool that evaluated supply chains externalities.
 
-`Nov 2014 to` 
-
-`May 2015`
+`Nov 2014 to May 2015`
 
 - Intern Analyst at True Price BV
 - Amsterdam
@@ -84,9 +76,11 @@ Co-authored a report on Economics of Ecosystems and Biodiversity
 
 ## Accomplisments
 
-`2017` Wageningen Economic Research: _Valuation of livestock eco-agri-food systems: poultry, beef and dair_, available [online][TEEB]
+`2017` _Valuation of livestock eco-agri-food systems: poultry, beef and dair_
+      [Wageningen Economic Research][TEEB]
 
-`2014` Master Thesis: _Polymorphism in Core-Controlled Virus Self-Assembly: Thermodynamics vs Kinetics_ , available[online][Thesis]
+`2014` _Polymorphism in Core-Controlled Virus Self-Assembly: Thermodynamics vs Kinetics_
+       [Master Thesis][Thesis]
 
 
 
