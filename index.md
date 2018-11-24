@@ -115,7 +115,7 @@ DevOps Engineer
 ## Accomplisments
 
 `2017`
-- _Valuation of livestock eco-agri-food systems: poultry, beef and dair_
+- _Valuation of livestock eco-agri-food systems: poultry, beef and dairy_
 - [Wageningen Economic Research][TEEB]
 
 `2014`
