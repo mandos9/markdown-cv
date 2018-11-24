@@ -5,23 +5,23 @@ title: Orfeas Agis Karachalios CV
 # Orfeas Agis Karachalios
 DevOps Engineer
 
-Mijdrechtstraat 38 3522HX, Utrecht
-_the Netherlands_
+- Mijdrechtstraat 38 3522HX, Utrecht
+- _the Netherlands_
 
-mobile: +31 (0) 64 40 81 039
-email: mandos9@gmail.com
+- mobile: +31 (0) 64 40 81 039
+- email: mandos9@gmail.com
 
 ## Work Experience
-`Jun 2016 - Present (2yrs 6mos)`
+`Jun 2016 - Present`
 
-DevOps Engineer at [Infradata](infradata.nl)
+- DevOps Engineer at [Infradata](infradata.nl)
+- Leiden
 
-Leiden
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
-`Mar 2016 - Apr 2016 (1mo)`
-Junior Software Developer at [Fox-IT](fox-it.com/nl)
-Delft
+`Mar 2016 - Apr 2016`
+- Junior Software Developer at [Fox-IT](fox-it.com/nl)
+- Delft
 
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
@@ -45,9 +45,11 @@ Coaching a team of developers and analysts to improve collaboration.
 - Amazon Web Services
 - Ansible
 - Docker
--
 
 ## Projects
+
+- Liberty Global Migration to ACI
+- KPN migration
 
 ## Languages
 
