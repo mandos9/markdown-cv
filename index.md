@@ -1,91 +1,74 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Orfeas Agis Karachalios CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Orfeas Agis Karachalios
+DevOps Engineer
+Mijdrechtstraat 38 3522HX, Utrecht
+the Netherlands
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+mobile: +31 (0) 64 40 81 039
+email: mandos9@gmail.com
 
+## Work Experience
 
-## Currently
+DevOps Engineer at [Infradata](infradata.nl)
+Jun 2016 - Present (2yrs 6mos)
+Leiden
+Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
-Standing on the shoulders of giants
+Junior Software Developer at Fox-IT  (fox-it.com/nl)
+Mar 2016 - Apr 2016 (1mo)
+Delft
+Software development in python and coaching in agile.
+Coaching a team of developers and analysts to improve collaboration.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+2018 MIT micromasters
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+2015 Utrecht Theorec
 
-- Sizar
+2009 NTUA
 
-`1667 - death`
-__Trinity College, Cambridge__
+1996 Ellinogermaniki Agogi
 
-- Fellow
+## Technical Skills
 
+- Python
+- Linux
+- Amazon Web Services
+- Ansible
+- Docker
+-
 
+## Projects
 
-## Awards
+## Languages
 
-`2012`
-President, *Royal Society*, London, UK
+- English, fluent
+- German, limited
+- Dutch, beginner
+- Greek, mother language
 
-Associate, *French Academy of Science*, Paris, France
+## Accomplisments
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2013`
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Interests
+- Automation and Data Analytics
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+## Hobbies
+- Mathematics (Category Theory, Type Theory, Topology)
+- Reading (sci-fi, politics, fiction)
+- Comics (western, manga)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2018 -->
 
 
