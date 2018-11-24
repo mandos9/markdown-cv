@@ -7,58 +7,50 @@ DevOps Engineer
 
 
 Mijdrechtstraat 38 3522HX, Utrecht
+
 the Netherlands 
 
 mobile: +31 (0) 64 40 81 039
+
 email: mandos9@gmail.com
 
 
 ## Work Experience
 
 `Jun 2016 - Present`
-
 - DevOps Engineer at [Infradata](infradata.nl)
 - Leiden
-
 Automation of network migrations, maintenance and monitoring.
 Design and development of software.
 
 
 `Mar 2016 - Apr 2016`
-
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
 - Delft
-
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
 
 `May 2015 - Jan 2016`
-
 - Trainee Analyst at True Price BV
 - Amsterdam
-
 Monetization of production system externalities to the environment and society.
 Co-developed an excel tool that evaluated supply chains externalities.
 
 
 `Nov 2014 - May 2015`
-
 - Intern Analyst at True Price BV
 - Amsterdam
-
 Economic research and analysis on ecosystem services valuation.
 Co-authored a report on Economics of Ecosystems and Biodiversity.
 
 
 `Jan 2014 - Nov 2014`
-
 - Post bezorger at Sandd
 - Utrecht
 
 
 `Dec 2010 - Jun 2011`
-
 - ADSL support at Hellenic Telecommunications Organisation (OTE)
 - Athens
 
