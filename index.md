@@ -72,7 +72,7 @@ DevOps Engineer
 ## Technical Skills
 
 - Python (fluent)
-- Test Driven Development (TDD)
+- Test Driven Development
 - Linux (basic)
 - Git (basic)
 - Amazon Web Services (basic)
@@ -85,17 +85,19 @@ DevOps Engineer
 ## Projects
 
 - LGI, Migration of internal IT systems.
-  
-  Cisco Application Centric Infrastructure (ACI) and Ansible.
-- LGI, F5 migration. 
-  
-  Parsing configuration and delivering to devices using F5 API.
-- KPN, F5 migration.
-  
-  Parsing configuration and delivering to devices using F5 API.
+- Cisco Application Centric Infrastructure (ACI) and Ansible.
+
+
+- LGI, F5 migration.   
+- Parsing configuration and delivering to devices using F5 API.
+
+
+- KPN, F5 migration.  
+- Parsing configuration and delivering to devices using F5 API.
+
+
 - Infradata internal database system. 
-  
-  Monitoring device inventory (SQLAlchemy, MySQL, EC2).
+- Monitoring device inventory (SQLAlchemy, MySQL, EC2).
 
 ## Languages
 
