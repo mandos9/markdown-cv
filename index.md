@@ -112,7 +112,7 @@ DevOps Engineer
 - Dutch (beginner)
 - Greek (mother tongue)
 
-## Accomplisments
+## Accomplishments
 
 `2017`
 - _Valuation of livestock eco-agri-food systems: poultry, beef and dairy_
