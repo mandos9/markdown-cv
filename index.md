@@ -5,18 +5,16 @@ title: Orfeas Agis Karachalios CV
 # Orfeas Agis Karachalios
 DevOps Engineer
 
-- Mijdrechtstraat 38 3522HX
-
-  Utrecht, the Netherlands
-  
-- DoB: 04/11/1987
-  
-  Nationality: Greek
-  
-- mobile: +31 (0) 64 40 81 039
-  
-  email: mandos9@gmail.com
-
+<div style="text-align: right">
+  <ul style="list-style-type: none">
+    <li>Mijdrechtstraat 38 3522HX</li>
+    <li>Utrecht, the Netherlands</li>
+    <li>DoB: 04/11/1987</li>
+    <li>Nationality: Greek</li>
+    <li>mobile: +31 (0) 64 40 81 039</li>
+    <li>email: mandos9@gmail.com</li>
+  </ul>
+</div>
 
 ## Work Experience
 
@@ -91,14 +89,21 @@ DevOps Engineer
 
 ## Projects
 
-- LGI. Migration of internal IT systems.\
-Cisco Application Centric Infrastructure (ACI) and Ansible.
-- LGI. F5 migration.\
-Parsing configuration and delivering to devices using F5 API.
-- KPN. F5 migration.\
-Parsing configuration and delivering to devices using F5 API.
-- Infradata. Monitoring device inventory.\
-Internal database system (SQLAlchemy, MySQL, EC2).
+<div style="text-align: right">
+  <ul style="list-style-type: none">
+    <li>LGI. Migration of internal IT systems.</li>
+    <li>Cisco Application Centric Infrastructure (ACI) and Ansible.</li>
+    <li></li>
+    <li>LGI. F5 migration.</li>
+    <li>Parsing configuration and delivering to devices using F5 API.</li>
+    <li></li>
+    <li>KPN. F5 migration.</li>
+    <li>Parsing configuration and delivering to devices using F5 API.</li>
+    <li></li>
+    <li>Infradata. Monitoring device inventory.</li>
+    <li>Internal database system (SQLAlchemy, MySQL, EC2).</li>
+  </ul>
+</div>
 
 ## Languages
 
