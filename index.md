@@ -13,6 +13,7 @@ DevOps Engineer
 
 ## Work Experience
 `Jun 2016 to
+
 Present`
 
 - DevOps Engineer at [Infradata](infradata.nl)
@@ -21,6 +22,7 @@ Present`
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
 `Mar 2016 to 
+
 Apr 2016`
 
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
