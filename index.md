@@ -93,13 +93,13 @@ DevOps Engineer
   <ul style="list-style-type: none">
     <li>LGI. Migration of internal IT systems.</li>
     <li>Cisco Application Centric Infrastructure (ACI) and Ansible.</li>
-    <li>  </li>
+    <li><br></li>
     <li>LGI. F5 migration.</li>
     <li>Parsing configuration and delivering to devices using F5 API.</li>
-    <li>  </li>
+    <li><br></li>
     <li>KPN. F5 migration.</li>
     <li>Parsing configuration and delivering to devices using F5 API.</li>
-    <li>  </li>
+    <li><br></li>
     <li>Infradata. Monitoring device inventory.</li>
     <li>Internal database system (SQLAlchemy, MySQL, EC2).</li>
   </ul>
