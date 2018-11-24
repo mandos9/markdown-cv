@@ -89,7 +89,7 @@ DevOps Engineer
 
 ## Projects
 
-<div style="text-align: right">
+<div>
   <ul style="list-style-type: none">
     <li>LGI. Migration of internal IT systems.</li>
     <li>Cisco Application Centric Infrastructure (ACI) and Ansible.</li>
