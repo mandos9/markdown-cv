@@ -12,18 +12,22 @@ DevOps Engineer
 - email: mandos9@gmail.com
 
 ## Work Experience
-`Jun 2016 to
+```
+Jun 2016 to
 
-Present`
+Present
+```
 
 - DevOps Engineer at [Infradata](infradata.nl)
 - Leiden
 
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
-`Mar 2016 to 
+```
+Mar 2016 to 
 
-Apr 2016`
+Apr 2016
+```
 
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
 - Delft
