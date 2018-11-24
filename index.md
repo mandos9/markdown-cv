@@ -83,17 +83,21 @@ DevOps Engineer
 
 ## Projects
 
-- Liberty Global (LGI) Migration of internal IT systems to Cisco Application Centric Infrastructure (ACI) and Ansible.
-- LGI, F5 migration. Parsing configuration and delivering to devices using F5 API.
-- KPN, F5 migration. Parsing configuration and delivering to devices using F5 API.
-- Infradata internal database system for monitoring device inventory (SQLAlchemy, MySQL, EC2).
+- LGI, Migration of internal IT systems.
+  Cisco Application Centric Infrastructure (ACI) and Ansible.
+- LGI, F5 migration. 
+  Parsing configuration and delivering to devices using F5 API.
+- KPN, F5 migration.
+  Parsing configuration and delivering to devices using F5 API.
+- Infradata internal database system. 
+  Monitoring device inventory (SQLAlchemy, MySQL, EC2).
 
 ## Languages
 
-- English, _fluent_
-- German, _limited_
-- Dutch, _beginner_
-- Greek, _mother tongue_
+- English (fluent)
+- German (limited)
+- Dutch (beginner)
+- Greek (mother tongue)
 
 ## Accomplisments
 
@@ -107,8 +111,8 @@ DevOps Engineer
 
 ## Interests
 
-- Machine Learning and DevOps
-- Domain Driven Design
+- Machine Learning, Blockchain and DevOps 
+- Domain Driven Design (Eventstorming, Software Development)
 - Functional Programming (Haskell, F#)
 
 ## Hobbies
