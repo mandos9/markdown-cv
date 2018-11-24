@@ -71,15 +71,16 @@ DevOps Engineer
 
 ## Technical Skills
 
-- Python, fluent. Completed several projects in python.
-- Linux, basic
-- Git, basic
-- Amazon Web Services, basic
-- Computer Networks, basic
-- Docker, basic
-- Ansible, basic
-- F5 systems, basic
-- MS Excel, written an excel tool for supply chain analysis
+- Python (fluent)
+- Test Driven Development (TDD)
+- Linux (basic)
+- Git (basic)
+- Amazon Web Services (basic)
+- Computer Networks (basic)
+- Docker (basic)
+- Ansible (basic)
+- F5 systems (basic)
+- MS Excel (advanced)
 
 ## Projects
 
