@@ -6,13 +6,12 @@ title: Orfeas Agis Karachalios CV
 DevOps Engineer
 
 
-Mijdrechtstraat 38 3522HX, Utrecht
+- Mijdrechtstraat 38 3522HX
+- Utrecht, the Netherlands 
 
-the Netherlands 
-
-mobile: +31 (0) 64 40 81 039
-
-email: mandos9@gmail.com
+- DoB: 04/11/1987
+- mobile: +31 (0) 64 40 81 039
+- email: mandos9@gmail.com
 
 
 ## Work Experience
@@ -20,29 +19,29 @@ email: mandos9@gmail.com
 `Jun 2016 - Present`
 - DevOps Engineer at [Infradata](infradata.nl)
 - Leiden
-Automation of network migrations, maintenance and monitoring.
-Design and development of software.
+- Automation of network migrations, maintenance and monitoring.
+- Design and development of software.
 
 
 `Mar 2016 - Apr 2016`
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
 - Delft
-Software development in python and coaching in agile.
-Coaching a team of developers and analysts to improve collaboration.
+- Software development in python and coaching in agile.
+- Coaching a team of developers and analysts to improve collaboration.
 
 
 `May 2015 - Jan 2016`
 - Trainee Analyst at True Price BV
 - Amsterdam
-Monetization of production system externalities to the environment and society.
-Co-developed an excel tool that evaluated supply chains externalities.
+- Monetization of production system externalities to the environment and society.
+- Co-developed an excel tool that evaluated supply chains externalities.
 
 
 `Nov 2014 - May 2015`
 - Intern Analyst at True Price BV
 - Amsterdam
-Economic research and analysis on ecosystem services valuation.
-Co-authored a report on Economics of Ecosystems and Biodiversity.
+- Economic research and analysis on ecosystem services valuation.
+- Co-authored a report on Economics of Ecosystems and Biodiversity.
 
 
 `Jan 2014 - Nov 2014`
@@ -74,17 +73,19 @@ Co-authored a report on Economics of Ecosystems and Biodiversity.
 
 ## Technical Skills
 
-- Python, fluent. 
+- Python, fluent. Completed several projects in python
 - Linux, basic
 - Amazon Web Services, basic
 - Docker, basic
 - Ansible, basic
+- F5 systems, basic
 
 ## Projects
 
-- Liberty Global Migration to ACI
-- KPN migration
-- Excel tool
+- Liberty Global (LGI) Migration of internal IT systems to Application Centric Infrastructure (ACI) and Ansible.
+- LGI, F5 migration.
+- KPN, F5 migration.
+- Infradata interal database system for monitoring device inventory (SQLAlchemy)
 
 ## Languages
 
