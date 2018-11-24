@@ -89,11 +89,12 @@ DevOps Engineer
 - MS Excel (advanced)
 
 ## Projects
-
-- LGI, Migration of internal IT systems. Cisco Application Centric Infrastructure (ACI) and Ansible.
-- LGI, F5 migration. Parsing configuration and delivering to devices using F5 API.
-- KPN, F5 migration. Parsing configuration and delivering to devices using F5 API.
-- Infradata internal database system. Monitoring device inventory (SQLAlchemy, MySQL, EC2).
+| Company | Goal | Description |
+| ------- | ---- | ----------- |
+| LGI | Migration of internal IT systems| Cisco Application Centric Infrastructure (ACI) and Ansible|
+| LGI | F5 migration | Parsing configuration and delivering to devices using F5 API |
+| KPN | F5 migration | Parsing configuration and delivering to devices using F5 API |
+| Infradata | Monitoring device inventory | Internal database system (SQLAlchemy, MySQL, EC2) |
 
 ## Languages
 
