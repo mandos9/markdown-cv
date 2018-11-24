@@ -35,14 +35,14 @@ DevOps Engineer
 
 
 `May 2015 - Jan 2016`
-- __Trainee Analyst__ at True Price BV
+- __Trainee Analyst__ at [True Price](trueprice.org)
 - Amsterdam
 - Monetization of production system externalities to the environment and society.
 - Co-developed an excel tool that evaluated supply chains externalities.
 
 
 `Nov 2014 - May 2015`
-- __Intern Analyst__ at True Price BV
+- __Intern Analyst__ at [True Price](trueprice.org)
 - Amsterdam
 - Economic research and analysis on ecosystem services valuation.
 - Co-authored a report on Economics of Ecosystems and Biodiversity.
@@ -93,13 +93,13 @@ DevOps Engineer
 - LGI, Migration of internal IT systems.
 - Cisco Application Centric Infrastructure (ACI) and Ansible.
 
-- LGI, F5 migration.   
+- LGI, F5 migration.
 - Parsing configuration and delivering to devices using F5 API.
 
-- KPN, F5 migration.  
+- KPN, F5 migration.
 - Parsing configuration and delivering to devices using F5 API.
 
-- Infradata internal database system. 
+- Infradata internal database system.
 - Monitoring device inventory (SQLAlchemy, MySQL, EC2).
 
 ## Languages
