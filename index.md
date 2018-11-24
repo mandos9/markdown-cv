@@ -64,34 +64,35 @@ Co-authored a report on Economics of Ecosystems and Biodiversity.
 
 ## Education
 
-`2018 - 2019` MITx on edx
-              
-              Micromasters on Statistics and Data Science
+`2018 - 2019` 
+- MITx on edx
+- Micromasters on Statistics and Data Science
 
-`2011 - 2014` Utrecht University
+`2011 - 2014` 
+- Utrecht University
+- Master's Degree, Theoretical Physics, 3.48/4.00
 
-              Master's Degree, Theoretical Physics, 3.48/4.00
+`2006 - 2011` 
+- National Technical University of Athens
+- Bachelor of Applied Science, Applied Mathematics and Physics, 8.82/10
 
-`2006 - 2011` National Technical University of Athens
-              
-              Bachelor of Applied Science, Applied Mathematics and Physics, 8.82/10
-
-`2000 - 2006` Ellinogermaniki Agogi
-              
-              Highshool Diploma, 19.1/20
+`2000 - 2006` 
+- Ellinogermaniki Agogi
+- Highshool Diploma, 19.1/20
 
 ## Technical Skills
 
 - Python, fluent. 
-- Linux
-- Amazon Web Services
-- Ansible
-- Docker
+- Linux, basic
+- Amazon Web Services, basic
+- Docker, basic
+- Ansible, basic
 
 ## Projects
 
 - Liberty Global Migration to ACI
 - KPN migration
+- Excel tool
 
 ## Languages
 
@@ -102,22 +103,22 @@ Co-authored a report on Economics of Ecosystems and Biodiversity.
 
 ## Accomplisments
 
-`2017` _Valuation of livestock eco-agri-food systems: poultry, beef and dair_
+`2017`
+- _Valuation of livestock eco-agri-food systems: poultry, beef and dair_
+- [Wageningen Economic Research][TEEB]
 
-      [Wageningen Economic Research][TEEB]
-
-`2014` _Polymorphism in Core-Controlled Virus Self-Assembly: Thermodynamics vs Kinetics_
-
-       [Master Thesis][Thesis]
-
-
+`2014`
+- _Polymorphism in Core-Controlled Virus Self-Assembly: Thermodynamics vs Kinetics_
+- [Master Thesis][Thesis]
 
 ## Interests
+
 - Machine Learning and Automation
 - Domain Driven Design
 - Functional Programming (Haskell, F#)
 
 ## Hobbies
+
 - Mathematics (Category Theory, Type Theory, Topology)
 - Reading (sci-fi, politics, fiction)
 - Comics (western, manga)
