@@ -12,7 +12,7 @@ DevOps Engineer
 - email: mandos9@gmail.com
 
 ## Work Experience
----
+
 `Jun 2016 to`
 
 `Present`
@@ -22,7 +22,6 @@ DevOps Engineer
 
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
----
 `Mar 2016 to`
 
 `Apr 2016`
@@ -33,25 +32,24 @@ Network migrations and maintenance, monitoring automation. Design and implementa
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
----
 `May 2015 to`
 
 `Jan 2016`
 
-Trainee Analyst at True Price BV
-Amsterdam
+- Trainee Analyst at True Price BV
+- Amsterdam
 
-Economic research and analysis on ecosystem services valuation.
-Co-developed an excel tool that evaluated supplied chains externalities.
+Monetization of production system externalities to the environment and society.
+Co-developed an excel tool that evaluated supply chains externalities.
 
----
 `Nov 2014 to` 
 
 `May 2015`
 
-Intern Analyst at True Price BV
-Amsterdam
+- Intern Analyst at True Price BV
+- Amsterdam
 
+Economic research and analysis on ecosystem services valuation.
 Co-authored a report on Economics of Ecosystems and Biodiversity
 
 ## Education
