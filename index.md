@@ -5,11 +5,17 @@ title: Orfeas Agis Karachalios CV
 # Orfeas Agis Karachalios
 DevOps Engineer
 
-- Mijdrechtstraat 38 3522HX, Utrecht
+- Mijdrechtstraat 38 3522HX
+
+  Utrecht, the Netherlands
+  
 - DoB: 04/11/1987
-- Nationality: Greek
+  
+  Nationality: Greek
+  
 - mobile: +31 (0) 64 40 81 039
-- email: mandos9@gmail.com
+  
+  email: mandos9@gmail.com
 
 
 ## Work Experience
