@@ -78,6 +78,8 @@ DevOps Engineer
 - Docker, basic
 - Ansible, basic
 - F5 systems, basic
+- Computer Networks, basic
+- MS Excel, written an excel tool for supply chain analysis
 
 ## Projects
 
