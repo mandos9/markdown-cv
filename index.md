@@ -6,25 +6,25 @@ title: Orfeas Agis Karachalios CV
 DevOps Engineer
 
 - Mijdrechtstraat 38 3522HX, Utrecht
-- _the Netherlands_
+- <div style="text-align: right"> _the Netherlands_ </div>
 
 - mobile: +31 (0) 64 40 81 039
 - email: mandos9@gmail.com
 
 ## Work Experience
-`Jun 2016`
+`Jun 2016 to`
 
-`to Present`
+`Present`
 
 - DevOps Engineer at [Infradata](infradata.nl)
 - Leiden
 
 Network migrations and maintenance, monitoring automation. Design and implementation of software.
 
-`Mar 2016`
+===
+`Mar 2016 to`
 
-`to Apr 2016`
-
+`Apr 2016`
 
 - Junior Software Developer at [Fox-IT](fox-it.com/nl)
 - Delft
@@ -32,21 +32,25 @@ Network migrations and maintenance, monitoring automation. Design and implementa
 Software development in python and coaching in agile.
 Coaching a team of developers and analysts to improve collaboration.
 
+===
 `May 2015 to`
 
 `Jan 2016`
 
-
 Trainee Analyst at True Price BV
+Amsterdam
 
 Economic research and analysis on ecosystem services valuation.
 Co-developed an excel tool that evaluated supplied chains externalities.
-Edit position Intern Analyst
-Title Intern Analyst
-Dates Employed Nov 2014 – May 2015
-Employment Duration 7 mos
-Location Amsterdam Area, Netherlands
 
+`Nov 2014 to` 
+
+`May 2015`
+
+Intern Analyst
+Amsterdam
+
+Co-authored a report on Economics of Ecosystems and Biodiversity
 
 ## Education
 
