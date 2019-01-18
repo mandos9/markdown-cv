@@ -84,6 +84,8 @@ DevOps Engineer
 - Computer Networks (basic)
 - Docker (basic)
 - Ansible (basic)
+- Gitlab (basic)
+- P4 programming (basic)
 - F5 systems (basic)
 - MS Excel (advanced)
 
@@ -91,6 +93,9 @@ DevOps Engineer
 
 <div>
   <ul style="list-style-type: none">
+    <li>KPN. Application for routing Traffic Flows to Monitoring Tools</li>
+    <li>P4 programming, Python, Linux, Docker, Swagger, X1</li>
+    <li><br></li>
     <li>LGI. Migration of internal IT systems.</li>
     <li>Cisco Application Centric Infrastructure (ACI) and Ansible.</li>
     <li><br></li>
