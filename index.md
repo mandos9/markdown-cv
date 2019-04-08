@@ -12,7 +12,7 @@ DevOps Engineer
     <li>DoB: 04/11/1987</li>
     <li>Nationality: Greek</li>
     <li>mobile: +31 (0) 64 40 81 039</li>
-    <li>email: mandos9@gmail.com</li>
+    <li>email: okarachalios@xccelerated.io</li>
   </ul>
 </div>
 
