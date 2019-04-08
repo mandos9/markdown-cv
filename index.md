@@ -18,7 +18,13 @@ DevOps Engineer
 
 ## Work Experience
 
-`Jun 2016 - Present`
+`Apr 2019 - Present`
+- __Data Engineer__ at [Xccelerated](https://www.xccelerated.io), part of Xebia Group
+- Amsterdam
+- Design and implementation of Data Pipelines Surrounding ML applications
+- Guidance in Collaboration and Project Design
+
+`Jun 2016 - March 2019`
 - __DevOps Engineer__ at [Infradata](https://www.infradata.nl)
 - Leiden
 - Automation of network migrations, maintenance and monitoring.
@@ -78,13 +84,14 @@ DevOps Engineer
 - Python (fluent)
 - C++ (basic)
 - Test Driven Development
-- Linux (basic)
-- Git (basic)
-- Amazon Web Services (basic)
-- Computer Networks (basic)
+- Linux (adequate)
+- Git (adequate)
+- Amazon Web Services
+- Azure Cloud Platform
+- Computer Networking (adequate)
 - Docker (basic)
-- Ansible (basic)
 - Gitlab (basic)
+- Ansible (basic)
 - P4 programming (basic)
 - F5 systems (basic)
 - MS Excel (advanced)
@@ -132,11 +139,12 @@ DevOps Engineer
 - Machine Learning, Blockchain and DevOps 
 - Domain Driven Design (Eventstorming, Software Development)
 - Functional Programming (Haskell, F#)
+- Authentic Organizations and Fintech
 
 ## Hobbies
 
 - Mathematics (Category Theory, Type Theory, Topology)
-- Reading (sci-fi, politics, fiction)
+- Reading (sci-fi, politics, business culture, fiction)
 - Comics (western, manga)
 - Music (rock, electronic)
 
