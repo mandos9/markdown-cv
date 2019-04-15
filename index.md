@@ -22,10 +22,10 @@ Data Engineer
 `Apr 2019 - Present`
 - __Data Engineer__ at [Xccelerated](https://www.xccelerated.io), part of Xebia Group
 - Amsterdam
-- Intensive Bootcamp to solidify knowledge on modern computer systems, software development tools and technologies:
-  
-  __Git, Software Engineering with Python, Docker, CI/CD, Hadoop,__
-  __Docker, Spark, Kafka, NoSQL, Cloud (AWS and Azure)__
+- Intensive Bootcamp to solidify knowledge on modern computer systems,
+  software development tools and technologies
+
+  __Git, Software Engineering with Python, Docker, CI/CD, Hadoop, Docker, Spark, Kafka, NoSQL, Cloud (AWS and Azure)__
 - Design and implementation of Data Pipelines Surrounding ML applications
 - Guidance in Collaboration and Project Design
 
