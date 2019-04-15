@@ -3,7 +3,7 @@ layout: cv
 title: Orfeas Agis Karachalios CV
 ---
 # Orfeas Agis Karachalios
-DevOps Engineer
+Data Engineer
 
 <div style="text-align: right">
   <ul style="list-style-type: none">
@@ -11,7 +11,8 @@ DevOps Engineer
     <li>Utrecht, the Netherlands</li>
     <li>DoB: 04/11/1987</li>
     <li>Nationality: Greek</li>
-    <li>mobile: +31 (0) 64 40 81 039</li>
+    <li>mobile-work: +31 (0) 61 11 63 124</li>
+    <li>mobile-private: +31 (0) 64 40 81 039</li>
     <li>email: okarachalios@xccelerated.io</li>
   </ul>
 </div>
@@ -21,6 +22,9 @@ DevOps Engineer
 `Apr 2019 - Present`
 - __Data Engineer__ at [Xccelerated](https://www.xccelerated.io), part of Xebia Group
 - Amsterdam
+- Intensive Bootcamp to solidify knowledge on modern computer systems, software development tools and technologies:
+  __Git, Software Engineering with Python, Docker, CI/CD, Hadoop,__
+  __Docker, Spark, Kafka, NoSQL, Cloud (AWS and Azure)__
 - Design and implementation of Data Pipelines Surrounding ML applications
 - Guidance in Collaboration and Project Design
 
@@ -42,7 +46,7 @@ DevOps Engineer
 - __Trainee Analyst__ at [True Price](https://www.trueprice.org)
 - Amsterdam
 - Monetization of production system externalities to the environment and society.
-- Co-developed an excel tool that evaluated supply chains externalities.
+- Co-developed excel tool that evaluated supply chains externalities.
 
 
 `Nov 2014 - May 2015`
@@ -82,16 +86,20 @@ DevOps Engineer
 ## Technical Skills
 
 - Python (fluent)
-- C++ (basic)
 - Test Driven Development
 - Linux (adequate)
 - Git (adequate)
+- Docker
+- Spark/Hadoop
+- NoSQL (Cassandra, MongoDB)
+- SQL (MySQL)
+- Kafka
 - Amazon Web Services
 - Azure Cloud Platform
+- CI/CD, Gitlab
 - Computer Networking (adequate)
-- Docker (basic)
-- Gitlab (basic)
 - Ansible (basic)
+- C++ (basic)
 - P4 programming (basic)
 - F5 systems (basic)
 - MS Excel (advanced)
