@@ -33,7 +33,7 @@ Data Engineer
   - Spark
   - Kafka
   - NoSQL
-  - Cloud (AWS and Azure
+  - Cloud (AWS and Azure)
 - Design and implementation of Data Pipelines Surrounding ML applications
 - Guidance in Collaboration and Project Design
 
