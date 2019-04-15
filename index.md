@@ -28,11 +28,11 @@ Data Engineer
   - Software Engineering with Python
   - Docker
   - CI/CD
+  - Spark
   - Hadoop
   - Docker
-  - Spark
   - Kafka
-  - NoSQL
+  - NoSQL (Cassandra, MongoDB)
   - Cloud (AWS and Azure)
 - Design and implementation of Data Pipelines Surrounding ML applications
 - Guidance in Collaboration and Project Design
