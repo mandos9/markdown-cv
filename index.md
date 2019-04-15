@@ -24,8 +24,16 @@ Data Engineer
 - Amsterdam
 - Intensive Bootcamp to solidify knowledge on modern computer systems,
  software development tools and technologies
-
- __Git, Software Engineering with Python, Docker, CI/CD, Hadoop, Docker, Spark, Kafka, NoSQL, Cloud (AWS and Azure)__
+  - Git
+  - Software Engineering with Python
+  - Docker
+  - CI/CD
+  - Hadoop
+  - Docker
+  - Spark
+  - Kafka
+  - NoSQL
+  - Cloud (AWS and Azure
 - Design and implementation of Data Pipelines Surrounding ML applications
 - Guidance in Collaboration and Project Design
 
