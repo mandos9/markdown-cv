@@ -3,17 +3,16 @@ layout: cv
 title: Orfeas Agis Karachalios CV
 ---
 # Orfeas Agis Karachalios
-Data Engineer
+Strategic Software Design Consultant
 
 <div style="text-align: right">
   <ul style="list-style-type: none">
-    <li>Mijdrechtstraat 38 3522HX</li>
-    <li>Utrecht, the Netherlands</li>
+    <li>Louizis Riankour 37 11523</li>
+    <li>Athens, Greece</li>
     <li>DoB: 04/11/1987</li>
     <li>Nationality: Greek</li>
-    <li>mobile-work: +31 (0) 61 11 63 124</li>
-    <li>mobile-private: +31 (0) 64 40 81 039</li>
-    <li>email: okarachalios@xccelerated.io</li>
+    <li>mobile: +31 (0) 64 40 81 039</li>
+    <li>email: orfeaskar@pm.me</li>
   </ul>
 </div>
 
@@ -23,19 +22,8 @@ Data Engineer
 - __Data Engineer__ at [Xccelerated](https://www.xccelerated.io), part of Xebia Group
 - Amsterdam
 - Intensive Bootcamp to solidify knowledge on modern computer systems,
- software development tools and technologies
-  - Git
-  - Software Engineering with Python
-  - Docker
-  - CI/CD
-  - Spark
-  - Hadoop
-  - Docker
-  - Kafka
-  - NoSQL (Cassandra, MongoDB)
-  - Cloud (AWS and Azure)
-- Design and implementation of Data Pipelines Surrounding ML applications
-- Guidance in Collaboration and Project Design
+ software development tools and data infrastructure technologies
+- Guidance in Workspace Collaboration and Project Design
 
 `Jun 2016 - March 2019`
 - __DevOps Engineer__ at [Infradata](https://www.infradata.nl)
@@ -95,14 +83,17 @@ Data Engineer
 ## Technical Skills
 
 - Python (fluent)
+- Scala (adequate)
+- Haskell (basic)
 - Test Driven Development
+- Agile, DevOps
 - Linux (adequate)
 - Git (adequate)
 - Docker
-- Spark/Hadoop
-- NoSQL (Cassandra, MongoDB)
+- Apache Spark/Hadoop
+- NoSQL (Cassandra)
 - SQL (MySQL)
-- Kafka
+- Apache Kafka
 - Amazon Web Services
 - Azure Cloud Platform
 - CI/CD, Gitlab
@@ -153,17 +144,19 @@ Data Engineer
 
 ## Interests
 
-- Machine Learning, Blockchain and DevOps 
-- Domain Driven Design (Eventstorming, Software Development)
-- Functional Programming (Haskell, F#)
-- Authentic Organizations and Fintech
+- Cybernetics, Machine Learning and Social Networks
+- Agile, DevOps and Authentic Organisations
+- Blockchain and Marketing Platfroms
+- Domain Driven Design (Eventstorming, Example mapping)
+- Functional Programming (Haskell, LISP)
+- Game Design
 
 ## Hobbies
 
 - Mathematics (Category Theory, Type Theory, Topology)
 - Reading (sci-fi, politics, business culture, fiction)
 - Comics (western, manga)
-- Music (rock, electronic)
+- Music (rock, electronic, rap)
 
 [TEEB]: https://trueprice.org/wp-content/uploads/2017/08/TEEB_Valuation-of-livestock-eco-agri-food-systems_final_June2017.pdf
 [Thesis]: https://dspace.library.uu.nl/handle/1874/297082
