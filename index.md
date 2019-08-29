@@ -18,7 +18,13 @@ Strategic Software Design Consultant
 
 ## Work Experience
 
-`Apr 2019 - Present`
+`September 2019 - Present`
+- __Strategic Software Design Consultant__
+- Software Design and Testing
+- Project Design and Business Strategy
+- Facilitation of Workspace Collaboration
+
+`Apr 2019 - August 2019`
 - __Data Engineer__ at [Xccelerated](https://www.xccelerated.io), part of Xebia Group
 - Amsterdam
 - Intensive Bootcamp to solidify knowledge on modern computer systems,
