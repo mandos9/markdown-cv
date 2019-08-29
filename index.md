@@ -161,6 +161,8 @@ Strategic Software Design Consultant
 
 - Mathematics (Category Theory, Type Theory, Topology)
 - Reading (sci-fi, politics, business culture, fiction)
+- Role-Playing Games
+- Acting
 - Comics (western, manga)
 - Music (rock, electronic, rap)
 
