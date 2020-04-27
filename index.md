@@ -3,7 +3,7 @@ layout: cv
 title: Orfeas Agis Karachalios CV
 ---
 # Orfeas Agis Karachalios
-Strategic Software Design Consultant
+Software Engineer
 
 <div style="text-align: right">
   <ul style="list-style-type: none">
@@ -11,7 +11,7 @@ Strategic Software Design Consultant
     <li>Athens, Greece</li>
     <li>DoB: 04/11/1987</li>
     <li>Nationality: Greek</li>
-    <li>mobile: +31 (0) 64 40 81 039</li>
+    <li>mobile: +30 690 85 55 921</li>
     <li>email: orfeaskar@pm.me</li>
   </ul>
 </div>
@@ -19,10 +19,8 @@ Strategic Software Design Consultant
 ## Work Experience
 
 `September 2019 - Present`
-- __Strategic Software Design Consultant__
-- Software Design and Testing
-- Project Design and Business Strategy
-- Facilitation of Workspace Collaboration
+- __Technical Facilitator at Delta Innovating Solutions__
+- Research into Model-Based Reinforcement Learning and Simulations
 
 `Apr 2019 - August 2019`
 - __Data Engineer__ at [Xccelerated](https://www.xccelerated.io), part of Xebia Group
@@ -89,7 +87,6 @@ Strategic Software Design Consultant
 ## Technical Skills
 
 - Python (fluent)
-- Scala (adequate)
 - Haskell (basic)
 - Test Driven Development
 - Agile, DevOps
@@ -97,9 +94,7 @@ Strategic Software Design Consultant
 - Git (adequate)
 - Docker
 - Apache Spark/Hadoop
-- NoSQL (Cassandra)
 - SQL (MySQL)
-- Apache Kafka
 - Amazon Web Services
 - Azure Cloud Platform
 - CI/CD, Gitlab
@@ -150,19 +145,16 @@ Strategic Software Design Consultant
 
 ## Interests
 
-- Cybernetics, Machine Learning and Social Networks
-- Agile, DevOps and Authentic Organisations
-- Blockchain and Marketing Platfroms
-- Domain Driven Design (Eventstorming, Example mapping)
-- Functional Programming (Haskell, LISP)
+- Cybernetics, Machine Learning and Computer Networks
+- Behaviour Driven Design
+- Functional Programming
 - Game Design
 
 ## Hobbies
 
-- Mathematics (Category Theory, Type Theory, Topology)
+- Mathematics (Category Theory)
 - Reading (sci-fi, politics, business culture, fiction)
 - Role-Playing Games
-- Acting
 - Comics (western, manga)
 - Music (rock, electronic, rap)
 
