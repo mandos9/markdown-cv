@@ -18,69 +18,69 @@ Software Engineer
 
 ## Work Experience
 
-`September 2019 - Present`
+_September 2019 - Present_
 - __Technical Facilitator at Delta Innovating Solutions__
 - Research into Model-Based Reinforcement Learning and Simulations
 
-`Apr 2019 - August 2019`
+_Apr 2019 - August 2019_
 - __Data Engineer__ at [Xccelerated](https://www.xccelerated.io), part of Xebia Group
 - Amsterdam
 - Intensive Bootcamp to solidify knowledge on modern computer systems,
  software development tools and data infrastructure technologies
 - Guidance in Workspace Collaboration and Project Design
 
-`Jun 2016 - March 2019`
+_Jun 2016 - March 2019_
 - __DevOps Engineer__ at [Infradata](https://www.infradata.nl)
 - Leiden
 - Automation of network migrations, maintenance and monitoring.
 - Design and development of software.
 
 
-`Mar 2016 - Apr 2016`
+_Mar 2016 - Apr 2016_
 - __Junior Software Developer__ at [Fox-IT](https://www.fox-it.com/nl)
 - Delft
 - Software development in python and coaching in agile.
 - Coaching a team of developers and analysts to improve collaboration.
 
 
-`May 2015 - Jan 2016`
+_May 2015 - Jan 2016_
 - __Trainee Analyst__ at [True Price](https://www.trueprice.org)
 - Amsterdam
 - Monetization of production system externalities to the environment and society.
 - Co-developed excel tool that evaluated supply chains externalities.
 
 
-`Nov 2014 - May 2015`
+_Nov 2014 - May 2015_
 - __Intern Analyst__ at [True Price](https://www.trueprice.org)
 - Amsterdam
 - Economic research and analysis on ecosystem services valuation.
 - Co-authored a report on Economics of Ecosystems and Biodiversity.
 
 
-`Jan 2014 - Nov 2014`
+_Jan 2014 - Nov 2014_
 - __Post bezorger__ at Sandd
 - Utrecht
 
 
-`Dec 2010 - Jun 2011`
+_Dec 2010 - Jun 2011_
 - __ADSL support__ at Hellenic Telecommunications Organisation (OTE)
 - Athens
 
 ## Education
 
-`2018 - 2019` 
+_2018 - 2019_ 
 - __MITx on edx__
 - Micromasters on Statistics and Data Science
 
-`2011 - 2014` 
+_2011 - 2014_
 - __Utrecht University__
 - Master's Degree, Theoretical Physics, 3.48/4.00
 
-`2006 - 2011` 
+_2006 - 2011_ 
 - __National Technical University of Athens__
 - Bachelor of Applied Science, Applied Mathematics and Physics, 8.82/10
 
-`2000 - 2006` 
+_2000 - 2006_
 - __Ellinogermaniki Agogi__
 - Highshool Diploma, 19.1/20
 
