@@ -135,11 +135,11 @@ _2000 - 2006_
 
 ## Accomplishments
 
-`2017`
+_2017_
 - _Valuation of livestock eco-agri-food systems: poultry, beef and dairy_
 - [Wageningen Economic Research][TEEB]
 
-`2014`
+_2014_
 - _Polymorphism in Core-Controlled Virus Self-Assembly: Thermodynamics vs Kinetics_
 - [Master Thesis][Thesis]
 
